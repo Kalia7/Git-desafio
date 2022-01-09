@@ -3,4 +3,4 @@
 
 ## Desafios do Bootcamp
 
-- [Contador](/JavaScript/Contador-JS/contador.html)
+- [Contador](/JavaScript/Contador-JS)
