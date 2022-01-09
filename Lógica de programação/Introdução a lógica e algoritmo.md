@@ -78,7 +78,7 @@ Para estruturar a lógica existem algumas ferramentas, são elas:
 
 **Fluxograma**: Uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequencia logica e coerente dos dados.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f4e94eb-d618-4f2e-a5c1-d44be7dd467f/Untitled.png)
+![image](https://user-images.githubusercontent.com/79476219/148702632-a1872078-3436-4ab4-b958-37ab7eb20eda.png)
 
 **Nassi Shneiderma**: 
 
