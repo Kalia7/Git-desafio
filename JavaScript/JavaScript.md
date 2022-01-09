@@ -70,7 +70,7 @@ Obs.: Na maioria dos projetos o JS é colocado no body por último, depois de to
 
 DOM ou Document Object Model, é as estrutura dos elementos dentro da janela. Sabendo dela você pode utilizar o js para manipular os elementos da página.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f56fa1fb-6f78-44c2-b96c-24b86bdeb95a/Untitled.png)
+![image](https://user-images.githubusercontent.com/79476219/148702531-485b7451-6d52-450f-bda2-ea2a148357ae.png)
 
 Obs.: Importante lembrar que, se quiser a tag h1 por exemplo, e escrever Element com s, ele vai procurar por todos os h1, se quiser apenas um elemento, não se deve colocar o s.
 
